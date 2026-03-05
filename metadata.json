@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Facturas y Cuentas de Cobro",
+  "description": "Aplicación para crear y gestionar facturas y cuentas de cobro con plantillas personalizables y logo de empresa.",
+  "requestFramePermissions": []
+}
